@@ -1,0 +1,1 @@
+INSERT INTO song(Title, Artist) VALUES('value1', 'value2');
